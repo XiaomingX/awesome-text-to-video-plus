@@ -1,231 +1,86 @@
+### 社交媒体上轻松创建AI视频的指南
 
-## Introduction
-Want to easily create funny videos from any description? You should then experiment with AI video generation tools. Unquestionably, AI is the future. AI video generators make it easy to make videos from any text. In only a few minutes, you can create high-level videos from text with a robotic presenter using an AI video maker.
+#### 从文字描述到吸引眼球的视频，只需几步
 
-Luckily for us, AI tools are a thing now. Artificial intelligence video generators are next level; they automate video creation and editing without compromising on quality.
+想象一下，不用摄像机、不用演员，只需输入描述，就能轻松生成引人入胜的视频。这就是AI视频生成工具的神奇之处！现在，AI工具能将文字快速转换为高质量视频，呈现虚拟主持人或个性化角色，简化了专业内容的制作。
 
-Here, we discuss some of the best AI-powered text-to-video tools that will make your life easier. Soon, you'll be making engaging videos for your business or personal use in just a few clicks.
+在这篇指南中，我们将介绍几款热门的AI视频生成工具，帮助您为营销、商业或个人用途快速创建内容。
 
+---
 
-## Text To Video Generators
+### AI视频生成工具推荐
 
-### [Runway AI](https://runwayml.com/)
+#### [Runway AI](https://runwayml.com/)
 
-Runway AI is an innovative set of resources for video editors that taps into the potential of AI. It comes equipped with a variety of powerful features, such as:
+Runway AI为视频创作者提供强大的AI工具，包括：
 
-- **Green screen tools:** The background can be edited out of any video.
-- **Erase and replace:** Choose any frame from a movie (such as a tossed ball in a game of catch) and have Runway swap it out with anything else.
-- **Infinite image:** Create a picture using AI and then use it to fill up more space than it would in the original.
+- **绿幕移除**：一键去除背景。
+- **帧内元素替换**：替换视频中的任意物体（例如，将球替换为其他物体）。
+- **图像扩展**：扩大和创建超出原框架的内容。
 
-Video editors will find these AI tools revolutionary. Even a novice may use it to execute complex video editing tasks in a matter of seconds. Nevertheless, Runway AI has even more in store. The Gen-1 and [Gen-2](https://dataconomy.com/blog/2023/03/21/what-is-runway-ai-gen-2-text-to-video-ai/) enhancements are a quantum leap forward for video editing.
+Runway的Gen-1和[Gen-2](https://dataconomy.com/blog/2023/03/21/what-is-runway-ai-gen-2-text-to-video-ai/)模型提供高级的视频编辑功能，适合专业的视频生成需求，[在此](https://runwayml.com/)免费试用。
 
-It is one of the best AI video generators for using artificial intelligence’s cutting edge tech. You can try it for free by clicking [here](https://runwayml.com/).
+---
 
-### [Kaiber AI](https://www.kaiber.ai/)
+#### [VEED.io](https://www.veed.io/)
 
-Kaiser AI is a platform that allows you to generate high-quality videos using artificial intelligence. They produce AI videos for artists like Linkin Park, Kid Cudi, and Mike Shinoda, and more.
+VEED.io是一款简单易用的在线AI视频编辑器，让视频制作变得轻松：
 
-You can choose from a variety of templates, customize the characters, backgrounds, and dialogues, and let Kaiber AI video do the rest. You can also upload your own scripts and voiceovers, and Kaiber AI video will match them with the best visuals and animations.
+1. 上传或选择视频。
+2. 通过添加文本、图片或字幕进行编辑。
+3. 下载并分享。
 
-![Are you looking for the best AI video generators? We explained the most popular in 2023, like Synthesia, Kaiber, Runway, and more. Keep reading!](https://dataconomy.com/wp-content/uploads/2023/04/Best-AI-video-generators-2.jpg)
+直观的操作流程让它成为快速内容创作的理想选择。
 
-It is one of the best AI video generators in the market. If you want to learn more about Kaiber AI and see some examples of what you can create with it, visit their [website](https://www.kaiber.ai/). You can also sign up for a free trial and start creating your own videos in minutes. It is one of the best AI video generators for engaging videos.
+---
 
-### [Stable Diffusion Videos](https://replicate.com/nateraw/stable-diffusion-videos)
+#### [Synthesia.io](https://www.synthesia.io/)
 
-<div align="center">
-<img src="https://mpost.io/wp-content/uploads/image-51-32-1024x611.jpg" width="600px"></img>
-</div>
+Synthesia利用自然语言处理技术，几分钟内生成逼真的AI视频。只需：
 
+1. 从40多个虚拟角色中选择，或创建自定义角色。
+2. 输入您的脚本（支持50多种语言）。
+3. 生成并下载您的视频。
 
-[Stable Diffusion Videos](https://replicate.com/nateraw/stable-diffusion-videos) is a free online text-to-video AI generator to make videos from prompts. It is a text-to-video AI generator that uses the Stable Diffusion algorithm to generate videos from text prompts. It is a free online text-to-video AI generator to make videos from prompts. It is a text-to-video AI generator that uses the Stable Diffusion algorithm to generate videos from text prompts.
+无制作团队也能轻松创建专业视频。
 
-### [Deforum Stable Diffusion](https://replicate.com/deforum/deforum_stable_diffusion)
+---
 
-<div align="center">
-<img src="https://mpost.io/wp-content/uploads/image-51-33-1024x589.jpg" width="600px"></img>
-</div>
+#### [Pictory](https://pictory.ai/)
 
-Another one text-to-video AI generator [Deforum](https://replicate.com/deforum/deforum_stable_diffusion) generates animations by constructing frames that take their forefathers into consideration. Using Deforum SD, it is now simpler than ever to produce coherent films and animations from Stable Diffusion outputs.
-### [Make-A-Video](https://makeavideo.studio/)
+Pictory能将长篇内容转化为适合社交媒体分享的短视频。只需上传您的文本或视频，Pictory就能将它们转化为适合Instagram、Facebook或Twitter的短视频故事。
 
-<div align="center">
-<img src="https://mpost.io/wp-content/uploads/image-51-31-1024x619.jpg" width="600px"></img>
-</div>
+---
 
-[Make-A-Video](https://makeavideo.studio/) a new AI text-t-video generator from Meta makes amusing short films with just a few phrases.
+### 2024年AI文本生成视频的前沿动态
 
-The research, which was created to enable text-to-video generation, is based on recent developments in text-to-image generating technology. In addition to text, photographs and other videos can also be used to make movies. Although a time axis has been added, this is still the same diffusion.
+#### 最新研究
 
-Using images and descriptions, the system learns how the world appears and how it is typically described. Unlabeled movies are also used to help students comprehend how the world operates.
+- **Vidu: 高一致性和动态AI视频生成**  
+  日期：2024年5月  
+  [查看论文](https://arxiv.org/abs/2405.04233)
 
-With just a few words or lines of text, you may use this information to create funny, original videos that will help you bring your imagination to life.
+- **Sora: 背景、技术与应用综述**  
+  日期：2024年2月  
+  [查看论文](https://arxiv.org/abs/2402.17177)
 
-### [VEED.io](https://www.veed.io/)
+- **CogVideoX: 专家变压器模型的文本转视频生成**  
+  日期：2024年8月  
+  [查看论文](https://arxiv.org/abs/2408.06072)
 
-<div align="center">
-<img src="https://mpost.io/wp-content/uploads/image-51-30-1024x551.jpg" width="600px"></img>
-</div>
+#### 新兴平台
 
+- **[Vidful.ai](https://vidful.ai/)**  
+  免费的AI视频生成器，集成Luma AI的Dream Machine，实现快速视频生成。
 
-With the help of [VEED.io](https://www.veed.io/)‘s robust A.I. technology and user-friendly interface, you can quickly produce great videos online. It can be used as a video editor to chop, crop, add subtitles, and more, or to convert any text into videos.
+- **[Pika Labs AI](https://pikartai.com/)**  
+  通过AI将文本或图片转化为动态视频的创新平台。
 
-Here’s how it functions:
+- **[MiniMax AI](https://www.minimaxai.co/)**  
+  借助变压器模型，从文本快速生成高质量视频内容。
 
-- Choose a stock video or upload your own
-- You can edit the video by adding text, photos, etc.
-- Download and export the movie
+- **[Luma Dream Machine](https://lumalabs.ai/dream-machine)**  
+  可从文本或图像生成高质量、逼真的视频。
 
-### [Lumen5](https://lumen5.com/)
-
-
-<div align="center">
-<img src="https://mpost.io/wp-content/uploads/image-51-29-1024x606.jpg" width="600px"></img>
-</div>
-
-A fantastic online tool for producing AI films is [Lumen5](https://lumen5.com/). For the purpose of producing quality video material, more than 800,000 users use Lumen5. The best thing about it is how simple it is to use and how little expertise in video editing is required. Artificial intelligence can let you quickly generate videos from scratch or from scratch in a matter of minutes.
-
-Here’s how it functions:
-
-- Type a script or text here.
-- Based on the screenplay, Lumen5 will automatically select the ideal audio and images.
-- You can upload your own text, music, and logos.
-- Download and distribute the movie
-
-### [Designs.AI](https://designs.ai/)
-
-<div align="center">
-<img src="https://mpost.io/wp-content/uploads/image-51-28-1024x665.jpg" width="600px"></img>
-</div>
-
-
-You may convert your blog entries and articles into interesting movies with the help of the amazing AI-powered content creation tool called [Design.AI](https://designs.ai/). It can also help you swiftly design logos, films, and banners.
-
-Here’s how it functions:
-
-- Insert your text or script first.
-- Choose an industry.
-- Choose a voice you prefer and a style of video.
-- The AI will immediately produce a video preview after this. After that, you can modify your video and add text and music to make it more visually appealing.
-
-### [Synthesia.io](https://www.synthesia.io/)
-
-
-<div align="center">
-<img src="https://mpost.io/wp-content/uploads/image-51-27.jpg" width="600px"></img>
-</div>
-
-
-One of the amazing AI video generators is [Synthesia](https://www.synthesia.io/), which makes it simple to make realistic AI videos in a matter of minutes. Synthesia is an AI video creator that uses advanced [natural language processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) (NLP) and machine learning algorithms to create high-quality videos from text in over 50 languages without any actors, cameras, or mics. Syhthesia is a great option if you want to make budget-friendly videos that appear professional. To build your own AI video, follow these three simple steps.
-
-- Select your AI presenter first (Synthesia provides more than 40 avatars for your AI films; alternatively, you can make your own avatar).
-- Enter your AI video script secondly.
-- Third, create your AI video and then download, stream, or translate it.
-
-### [InVideo.io](https://invideo.io/)
-
-<div align="center">
-<img src="https://mpost.io/wp-content/uploads/image-51-26.jpg" width="600px"></img>
-</div>
-
-
-You can convert text into videos using the effective video editing program [InVideo](https://invideo.io/). You can use more than 5000 layouts, iStock media, a music library, filters, and other features.
-
-For simple video conversion of text-based information, InVideo provides more than 50 AI-powered themes. From their library of 5000+ configurable templates, you may make all different types of videos, including video commercials, promos, YouTube videos, intros, and more.
-
-You must choose any template or theme and type any text when creating videos. That’s it; you can quickly create an incredible AI video with that script. You can add media, such as audio, video, text, and more.
-
-### [GliaCloud](https://www.gliacloud.com/en/)
-
-You can use GliaCloud to seamlessly create professional-looking videos from existing text content in minutes. There’s no need for special equipment or prior knowledge of video editing software. Simply upload your article or post the URL, and it will automatically create an engaging video.
-
-You can then preview and edit this script if required before generating an HD-quality video file ready to upload to your website or social media channels.
-
-### [Synths Video](https://synths.video/)
-
-<div align="center">
-<img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/synths-video-AI.jpg?q=50&fit=crop&w=1500&dpr=1.5" width="600px"></img>
-</div>
-
-
-
-Are you looking for a new way to engage your audience? You can use Synths Video to turn any blog post into an engaging video with just a few clicks. You can even choose to add a human avatar from over 40 selections.
-
-This tool leverages AI to generate natural-looking lip movement based on the words of your text. And because everything is automated, you don’t have to worry about anything technical—no editing experience required.
-
-Just write your blog post as usual and then upload the file to Synths Video, and it will convert it into an engaging video that you can upload directly to YouTube.
-
-
-
-###  [Pictory](https://pictory.ai/)
-
-<div align="center">
-<img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/pictory-video-generator.jpg?q=50&fit=crop&w=1500&dpr=1.5" width="600px"></img>
-</div>
-
-Ever wish you could easily convert long-form video or text content into short, shareable videos for social media? You can easily do that with Pictory.
-
-Sign up, upload your text or long-form video, and Pictory will turn it into a short, engaging visual story that will be perfect for sharing on Facebook, Instagram, or Twitter.
-
-This tool will help you save time with video creation, increase your company’s visibility, and significantly reduce the burden of maintaining an active social media presence.
-
-### [Designs.ai](https://designs.ai/)
-
-<div align="center">
-<img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/designsai-video-generator.jpg?q=50&fit=crop&w=1500&dpr=1.5" width="600px"></img>
-</div>
-
-Designs.ai leverages artificial intelligence to generate professional videos automatically, quickly, and easily.
-
-Simply sign up, paste your text, select the relevant industry, choose a language, and select a voice for the voiceover. The result will be a compelling attention-grabbing message, all while telling your story with powerful audio and visuals. Plus, you can get the same results in over 20 languages.
-
-You can use Designs.ai to resize your videos for Facebook, Instagram, Twitter, or TikTok to get the most out of your marketing strategies on social media platforms. This AI-empowered tool also enables you to create logos, banners, and voiceovers in a few minutes.
-
-###  [Wisecut](https://www.wisecut.video/)
-
-<div align="center">
-<img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/wisecut-video-generator.jpg?q=50&fit=crop&w=1500&dpr=1.5" width="600px"></img>
-</div>
-
-
-Wisecut is an AI video editing tool designed to ease the video creation process. You can use it to remove long pauses, add background music, and include subtitles to create engaging videos. This tool also empowers you to reach a broader audience by leveraging its auto-translation feature.
-
-In addition, this AI video creator generates a storyboard based on your input speech, giving you the opportunity to easily edit your video by editing the text. You can use this AI-powered video editor for your YouTube videos, vlogs, or online courses. All in all, Wisecut enables you to [edit your videos like a pro](https://www.makeuseof.com/tag/8-tips-editing-videos-like-pro/).
-
-### [Fliki AI](https://fliki.ai/)
-
-Fliki is a tool that converts text into audio and video in under a minute, utilizing artificially intelligent voices.
-
-With just a few simple steps, Fliki can transform your blog into narrated videos, like Lumen5, podcasts, or audiobooks. 850+ voices are available on Fliki, including 77+ languages and 100+ regional dialects.
-
-It is one of the best AI video generators for content creation. Click [here](https://fliki.ai/) and try Fliki AI.
-
-## Text to Video Papers
-
-### 2023
--  Text-To-4D Dynamic Scene Generation, Uriel Singer et al. [[Paper](https://arxiv.org/abs/2301.11280)] [[Project](https://make-a-video3d.github.io/)]
-
-### 2022
-
--  Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation, Jay Zhangjie Wu et al. [[Paper](https://arxiv.org/abs/2212.11565)] [[Project](https://tuneavideo.github.io/)] [[Code](https://github.com/showlab/Tune-A-Video)]
--  MagicVideo: Efficient Video Generation With Latent Diffusion Models, Daquan Zhou et al. [[Paper](https://arxiv.org/abs/2211.11018)] [[Project](https://magicvideo.github.io/#)]
--  Phenaki: Variable Length Video Generation From Open Domain Textual Description, Ruben Villegas et al. [[Paper](https://arxiv.org/abs/2210.02399)]
--  Imagen Video: High Definition Video Generation with Diffusion Models, Jonathan Ho et al. [[Paper](https://arxiv.org/abs/2210.02303v1)] [[Project](https://imagen.research.google/video/)]
--  Text-driven Video Prediction, Xue Song et al. [[Paper](https://arxiv.org/abs/2210.02872)]
--  Make-A-Video: Text-to-Video Generation without Text-Video Data, Uriel Singer et al. [[Paper](https://arxiv.org/abs/2209.14792)] [[Project](https://makeavideo.studio/)] [[Short read](https://www.louisbouchard.ai/make-a-video/)] [[Code](https://github.com/lucidrains/make-a-video-pytorch)]
-- StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation, Adyasha Maharana et al. [[Paper](https://arxiv.org/abs/2209.06192)] [[Code](https://github.com/adymaharana/storydalle)]
-- Word-Level Fine-Grained Story Visualization, Bowen Li et al. [[Paper](https://arxiv.org/abs/2208.02341)] [[Code](https://github.com/mrlibw/Word-Level-Story-Visualization)]
--  CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers, Wenyi Hong et al. [[Paper](https://arxiv.org/abs/2205.15868)] [[Code](https://github.com/THUDM/CogVideo)]
-- Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning, Yogesh Balaji et al. [[Paper](https://arxiv.org/abs/2203.02573)] [[Code](https://github.com/snap-research/MMVID)] [Project](https://snap-research.github.io/MMVID/)
--  Video Diffusion Models, Jonathan Ho et al. [[Paper](https://arxiv.org/abs/2204.03458)] [[Project](https://video-diffusion.github.io/)]
-
-### Befor 2021
-- Transcript to Video: Efficient Clip Sequencing from Texts, Ligong Han et al. [[Paper](https://arxiv.org/pdf/2107.11851.pdf)] [[Project](http://www.xiongyu.me/projects/transcript2video/)]
--   GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2104.14806.pdf)]
--   Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary, Sibo Zhang et al. [[Paper](https://arxiv.org/pdf/2104.14631.pdf)]
--  TiVGAN: Text to Image to Video Generation With Step-by-Step Evolutionary Generator, DOYEON KIM et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9171240)]
-- Conditional GAN with Discriminative Filter Generation for Text-to-Video Synthesis, Yogesh Balaji et al. [[Paper](https://www.ijcai.org/Proceedings/2019/0276.pdf)] [[Code](https://github.com/minrq/CGAN_Text2Video)]
-- IRC-GAN: Introspective Recurrent Convolutional GAN for Text-to-video Generation, Kangle Deng et al. [[Paper](https://www.ijcai.org/Proceedings/2019/0307.pdf)]
-- StoryGAN: A Sequential Conditional GAN for Story Visualization, Yitong Li et al. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12233https://openaccess.thecvf.com/content_CVPR_2019/html/Li_StoryGAN_A_Sequential_Conditional_GAN_for_Story_Visualization_CVPR_2019_paper.html)] [[Code](https://github.com/yitong91/StoryGAN?utm_source=catalyzex.com)]
-- Video Generation From Text, Yitong Li et al. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12233)]
-- To create what you tell: Generating videos from captions, Yingwei Pan et al. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3127905)]
+- **[Kapwing AI文本转视频工具](https://www.kapwing.com/ai/text-to-video)**  
+  Kapwing的AI视频工具让用户从文字描述生成视频并提供编辑功能。
